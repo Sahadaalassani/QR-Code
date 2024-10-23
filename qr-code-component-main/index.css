@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(128, 191, 243);
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.check {
+    background-color: white;
+    justify-content: center;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+img {
+    border-radius: 10px;
+    height: 220px;
+    width: 220px;
+    }
+
+h3 {
+    color: rgb(45, 45, 88);
+    margin: 2px;
+}
+
+p {
+    color: rgb(110, 110, 138);
+}
